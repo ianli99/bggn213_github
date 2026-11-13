@@ -1,5 +1,5 @@
 # bggn213_github
-My class work from BGGN 213.
+My class work from BGGN 213 at UCSD.
 
 Code to set up connection between RStudio and GitHub:
 
