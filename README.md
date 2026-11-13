@@ -13,4 +13,4 @@ library(gitcreds)
 gitcreds_set()
 
 
-- Class 5: Data viz with ggplot
+- Class 5: [Data viz with ggplot](class05/class05.pdf)
